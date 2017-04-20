@@ -1,6 +1,7 @@
 # Retrodup
 
-An intergated retroduplication caller based on 1) exon-exon junction and 2) discordant reads
+An integrated retroduplication caller based on 1) exon-exon junction and 2) discordant reads
+
 Please refer to /*Landscape and Variation of Novel Retroduplications in 26 Human Populations*/. 
 
 
